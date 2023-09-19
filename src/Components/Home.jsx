@@ -21,8 +21,11 @@ import PropTypes from "prop-types";
  * freely use on your site.
  */
 import image from "../images/Marko_PP-fotor-202309191480.jpg";
+//dsadasd
+//csqcq
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText =
+  "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
 const Home = ({ name, title }) => {
   return (

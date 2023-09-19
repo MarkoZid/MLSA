@@ -8,7 +8,7 @@ import React from "react";
 
 /**
  * About background image
- *
+ *bnjbjb
  * Below is a sample image. Upload the image of your choice into the "images"
  * directory and import here for use. Then, set imageAltText to string that 
  * represents what you see in that image.
